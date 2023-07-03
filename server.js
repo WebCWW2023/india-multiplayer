@@ -19,7 +19,7 @@ var con = mysql.createConnection({
   password: "e^gU@]1t_1YI",
   database: "worldbeyond_metaverse2023",
   
-  });
+   });
   
 app.use(express.static("."));
 

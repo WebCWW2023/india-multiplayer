@@ -416,8 +416,8 @@ const init = () => {
           mainModel.scene.getObjectByName(item)
         );
         addBanner();
-        startVoice();
-        isFirstT imeLoaded = false;
+		  startVoice();
+        isFirstTimeLoaded = false;
       }
     },
 
